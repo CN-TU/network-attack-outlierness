@@ -1,0 +1,9 @@
+scikit-learn
+sklearn-deap
+numpy
+pandas
+hdbscan
+matplotlib
+pyod
+PyNomaly
+scipy
