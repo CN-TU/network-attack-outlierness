@@ -58,9 +58,10 @@ File | Description
 -----|------------- 
 README.txt | This file
 Makefile | Makefile for reproducing all results
-od.py | Script for performing 
+od.py | Script for evaluating outlier detection methods
 tune.py | Script for parameter selection for different methods
 find_vector.py | Script for performing a forward feature selection
+requirements.txt | Required python packages
 [outdet] | Python package providing unified wrapper function for outlier detection algorithms
 
 --------
